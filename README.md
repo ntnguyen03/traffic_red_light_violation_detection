@@ -1,5 +1,7 @@
 # Hệ thống nhận diện phương tiện vượt đèn đỏ sử dụng YOLOv8 và AIoT 🎥
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=social&logo=yolo&label=YOLO&labelColor=white&color=Purple)
+
 ## Giới thiệu 💡💡💡
 Dự án này là bài tập lớn môn AIoT, tập trung vào việc xây dựng một hệ thống thông minh để nhận diện và ghi nhận các phương tiện vượt đèn đỏ tại giao lộ. Hệ thống kết hợp công nghệ trí tuệ nhân tạo (AI) và Internet vạn vật (IoT), sử dụng mô hình YOLOv8 để xử lý video từ camera giao thông theo thời gian thực. Mục tiêu là nâng cao hiệu quả giám sát giao thông, giảm thiểu vi phạm và đảm bảo an toàn đường bộ.
 
