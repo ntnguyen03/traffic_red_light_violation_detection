@@ -26,3 +26,11 @@ Các phương tiện vi phạm (vượt đèn đỏ) sẽ được ghi nhận, b
 
 ## Hình ảnh Demo 🎞🎞
 ![image](https://github.com/user-attachments/assets/cddb5c82-5d84-44d1-aa16-4461657c3305)
+
+## Cách sử dụng ✅✅
+- Tải models đã được pre-train cho các đặc trưng (phương tiện, biển số, đèn giao thông, ký tự biển số)
+```bash
+python main.py
+```
+- Phát triển để models chạy với độ chính xác cao hơn
+- Kết hợp rtsp videostream để chạy video với Camera
