@@ -1,6 +1,8 @@
 # Hệ thống nhận diện phương tiện vượt đèn đỏ sử dụng YOLOv8 và AIoT 🎥
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-8d33ff?style=for-the-badge&logo=artificialintelligence&logoColor=white)
+![YOLO](![image](https://github.com/user-attachments/assets/cee825ab-c68f-40c3-b29e-e82a2b88749c))
+
+
 
 
 ## Giới thiệu 💡💡💡
