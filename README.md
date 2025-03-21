@@ -37,3 +37,8 @@ python main.py
 ```
 - Phát triển để models chạy với độ chính xác cao hơn
 - Kết hợp rtsp videostream để chạy video với Camera
+
+Có thể thử nghiệm file main_test.py, được cải tiến để đọc các ký tự biển số, cho ra kết quả tốt hơn nhưng vẫn chưa hoàn hảo nhất (có thể phát triển thêm)
+```bash
+python main_test.py
+```
