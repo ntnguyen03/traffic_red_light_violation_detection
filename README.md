@@ -31,6 +31,10 @@ Các phương tiện vi phạm (vượt đèn đỏ) sẽ được ghi nhận, b
 ![image](https://github.com/user-attachments/assets/cddb5c82-5d84-44d1-aa16-4461657c3305)
 
 ## Cách sử dụng ✅✅
+- Tải các thư viện cần thiết
+```bash
+  pip install -r requirment.txt
+```
 - Tải models đã được pre-train cho các đặc trưng (phương tiện, biển số, đèn giao thông, ký tự biển số)
 ```bash
 python main.py
